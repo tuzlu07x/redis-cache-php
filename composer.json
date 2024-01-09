@@ -1,0 +1,19 @@
+{
+    "name": "fatihtuzlu/redis-cache-php",
+    "description": "Generic Redis For PHP",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fatihtuzlu\\RedisCachePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fatih Tuzlu",
+            "email": "fatihtuzlu07@gmail.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^2.2"
+    }
+}
