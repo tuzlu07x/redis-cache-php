@@ -1,5 +1,5 @@
 {
-    "name": "fatihtuzlu/redis-cache-php",
+    "name": "ftuzlu/redis-cache-php",
     "description": "Generic Redis For PHP",
     "license": "MIT",
     "autoload": {
