@@ -4,7 +4,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Fatihtuzlu\\RedisCachePhp\\": "src/"
+            "Fatihtuzlu\\RedisCachePhp\\": "src/Redis",
+            "Fatihtuzlu\\CacheMecanism\\": "src/CacheMecanism"
         }
     },
     "authors": [
@@ -14,6 +15,7 @@
         }
     ],
     "require": {
-        "predis/predis": "^2.2"
+        "predis/predis": "^2.2",
+        "cache/simple-cache-bridge": "^1.2"
     }
 }
