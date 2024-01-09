@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2ca4425f403beb31a5646dd7f12193e2",
+    "content-hash": "4adbc49b06c2ad0e87f18672cbc533f1",
     "packages": [
         {
             "name": "cache/simple-cache-bridge",
