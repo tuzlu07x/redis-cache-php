@@ -14,7 +14,7 @@
             "email": "fatihtuzlu07@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "predis/predis": "^2.2",
         "cache/simple-cache-bridge": "^1.2"
